@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python,Cloud computing,
 - 👯 I’m looking to collaborate on Creating content!
 - 🤔 I’m looking for help with Python
-- 💬 Ask me about C, 
+- 💬 Ask me about C,CSS
 - 📫 How to reach me: https://twitter.com/MessyMe94337890?s=08
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
